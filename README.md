@@ -62,7 +62,7 @@
   <li><strong>gerar_vetor:</strong> Uma função que preenche um vetor com números inteiros aleatórios no intervalo de 0 a 99 (porcentagem é usada para limitar o intervalo).</li>
   <li><strong>selection:</strong> Implementação do algoritmo de ordenação por seleção para ordenar o vetor em ordem crescente.</li>
   <li><strong>exibir_vetor:</strong> Função para exibir o conteúdo de um vetor juntamente com uma mensagem.</li>
-  <li>Função main: O ponto de entrada do programa.</li>
+  <li><strong>Função main:</strong> O ponto de entrada do programa.</li>
       <ul>
           <li>Inicializa a semente de geração de números aleatórios com base no tempo atual.</li>
           <li>Solicita ao usuário que digite o tamanho do vetor desejado.</li>
